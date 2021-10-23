@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning full stack wed development 
+- 🌱 I’m currently learning full stack web development
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
